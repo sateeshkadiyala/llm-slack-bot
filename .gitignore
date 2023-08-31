@@ -1,0 +1,6 @@
+.env
+models
+source_documents
+vector_data
+db
+__pycache__
